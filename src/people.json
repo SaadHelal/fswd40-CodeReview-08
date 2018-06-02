@@ -1,0 +1,91 @@
+[{
+    "name": "John",
+    "surname": "Doe",
+    "gender": "male",
+    "age": 26,
+    "isRelated": true,
+    "image": "../src/img/boy1.jpg",
+    "likes": 31
+  },
+  {
+    "name": "John",
+    "surname": "Smith",
+    "gender": "male",
+    "age": 31,
+    "civilStatus": false,
+    "image": "../src/img/boy2.jpg",
+    "likes": 52
+  },
+  {
+    "name": "Erick",
+    "surname": "Burger",
+    "gender": "male",
+    "age": 21,
+    "civilStatus": false,
+    "image": "../src/img/boy3.jpg",
+    "likes": 25
+  },
+  {
+    "name": "Armen",
+    "surname": "Mashkov",
+    "gender": "male",
+    "age": 35,
+    "civilStatus": true,
+    "image": "../src/img/boy4.jpg",
+    "likes": 22
+  },
+  {
+    "name": "David",
+    "surname": "Garet",
+    "gender": "male",
+    "age": 23,
+    "civilStatus": false,
+    "image": "../src/img/boy5.jpg",
+    "likes": 40
+  },
+  {
+    "name": "Anna",
+    "surname": "Maier",
+    "gender": "female",
+    "age": 35,
+    "civilStatus": false,
+    "image": "../src/img/girl1.jpg",
+    "likes": 30
+  },
+  {
+    "name": "Natalie",
+    "surname": "Schmit",
+    "gender": "female",
+    "age": 27,
+    "civilStatus": true,
+    "image": "../src/img/girl2.jpg",
+    "likes": 0
+  },
+  {
+    "name": "Jola",
+    "surname": "Berger",
+    "gender": "female",
+    "age": 24,
+    "civilStatus": false,
+    "image": "../src/img/girl3.jpg",
+    "likes": 34
+  },
+  {
+    "name": "Elfriede",
+    "surname": "keinz",
+    "gender": "female",
+    "age": 26,
+    "civilStatus": true,
+    "image": "../src/img/girl4.jpg",
+    "likes": 17
+  },
+  {
+    "name": "Vira",
+    "surname": "Johnson",
+    "gender": "female",
+    "age": 22,
+    "civilStatus": false,
+    "image": "../src/img/girl5.jpg",
+    "likes": 33
+  }
+]
