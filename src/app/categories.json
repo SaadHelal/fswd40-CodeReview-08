@@ -1,0 +1,7 @@
+[{
+        "gender": "male"
+    },
+    {
+        "gender": "female"
+    }
+]

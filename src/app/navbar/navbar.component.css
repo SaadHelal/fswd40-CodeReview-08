@@ -1,0 +1,10 @@
+.navbar {
+    justify-content: flex-start;
+    margin: 0;
+    border-radius: 0;
+    padding: 0 30px
+}
+
+.bg-dark {
+    background-color: #7B2389 !important
+}

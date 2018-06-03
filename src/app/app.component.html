@@ -1,6 +1,14 @@
-<h1>
-    people
-    </h1>
-    <ul *ngFor="let people of items | async">
-    <li>{{item.language}}</li>
-    </ul>
+<app-navbar>
+</app-navbar>
+<app-hero></app-hero>
+<div class="container">
+    <div *ngFor="let persons of persons">
+        <img src="{{persons.image}}" alt="Persons">
+        <h4>Name: {{persons.name}}</h4>
+        <h4>surname: {{persons.surname}}</h4>
+        <p>Age: {{persons.age}}</p>
+        <p>Gender: {{persons.gender}}</p>
+        <p>Relationship Status: {{persons.relationshipstatus}}</p>
+    </div>
+</div>
+<app-footer></app-footer>

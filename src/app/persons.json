@@ -1,0 +1,91 @@
+[{
+        "name": "John",
+        "surname": "Doe",
+        "gender": "male",
+        "age": 26,
+        "relationshipstatus": true,
+        "image": "assets/img/boy1.jpg",
+        "likes": 31
+    },
+    {
+        "name": "tom",
+        "surname": "Smith",
+        "gender": "male",
+        "age": 31,
+        "relationshipstatus": false,
+        "image": "assets/img/boy2.jpg",
+        "likes": 52
+    },
+    {
+        "name": "Erick",
+        "surname": "Burger",
+        "gender": "male",
+        "age": 21,
+        "relationshipstatus": false,
+        "image": "assets/img/boy3.jpg",
+        "likes": 25
+    },
+    {
+        "name": "Armen",
+        "surname": "Mashkov",
+        "gender": "male",
+        "age": 35,
+        "relationshipstatus": true,
+        "image": "assets/img/boy4.jpg",
+        "likes": 22
+    },
+    {
+        "name": "David",
+        "surname": "Garet",
+        "gender": "male",
+        "age": 23,
+        "relationshipstatus": false,
+        "image": "assets/img/boy5.jpg",
+        "likes": 40
+    },
+    {
+        "name": "Anna",
+        "surname": "Maier",
+        "gender": "female",
+        "age": 35,
+        "relationshipstatus": false,
+        "image": "assets/img/girl1.jpg",
+        "likes": 30
+    },
+    {
+        "name": "Natalie",
+        "surname": "Schmit",
+        "gender": "female",
+        "age": 27,
+        "relationshipstatus": true,
+        "image": "assets/img/girl2.jpg",
+        "likes": 0
+    },
+    {
+        "name": "Jola",
+        "surname": "Berger",
+        "gender": "female",
+        "age": 24,
+        "relationshipstatus": false,
+        "image": "assets/img/girl3.jpg",
+        "likes": 34
+    },
+    {
+        "name": "Elfriede",
+        "surname": "keinz",
+        "gender": "female",
+        "age": 26,
+        "relationshipstatus": true,
+        "image": "assets/img/girl4.jpg",
+        "likes": 17
+    },
+    {
+        "name": "Vira",
+        "surname": "Johnson",
+        "gender": "female",
+        "age": 22,
+        "relationshipstatus": false,
+        "image": "assets/img/girl5.jpg",
+        "likes": 33
+    }
+]

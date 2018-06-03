@@ -4,6 +4,10 @@ import { AppComponent } from './app.component';
 import { AngularFireModule} from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
+import { NavbarComponent } from './navbar/navbar.component';
+import { HeroComponent } from './hero/hero.component';
+import { FooterComponent } from './footer/footer.component';
+import { Services } from '@angular/core/src/view';
 
 export const firebaseConfig = {
   apiKey: 'AIzaSyAC2amnFKemabMmbiODTVlOE0TyRb1A5kg',
@@ -17,7 +21,11 @@ export const firebaseConfig = {
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavbarComponent,
+    HeroComponent,
+    FooterComponent,
+
   ],
   imports: [
     BrowserModule,

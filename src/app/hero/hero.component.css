@@ -1,0 +1,22 @@
+header article img {
+    margin: 0 auto;
+    width: 100%;
+}
+
+header article h1 {
+    font-size: 40px;
+    padding: 20px 0px;
+    width: 60%;
+    margin: 0 auto;
+    color: #7B2389
+}
+
+@media (max-width: 570px) {
+    header article h1 {
+        font-size: 40px;
+        padding: 10px 0px;
+    }
+    header article:last-child {
+        height: 300px
+    }
+}
